@@ -1,0 +1,10 @@
+{
+  "description": "A responsive dashboard empowering farmers and businesses with animal health tracking, biometric data, security alerts, and multilingual support for efficient farm management.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
